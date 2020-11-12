@@ -1,0 +1,10 @@
+name: ISP
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - pandas
+  - tensorflow
+  - matplotlib
+  - scikit-learn
+prefix: /Users/jacobmaltejensen/anaconda3/envs/ISP
